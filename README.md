@@ -26,13 +26,13 @@ Ağacın Görselleştirilmesi: Ekleme ve arama işlemlerinde ağaç otomatik ola
 📂 Proje Yapısı
 
 veriyapilariagac/
-│── src/
-│   ├── com/mycompany/veriyapilariagac/
-│   │   ├── BinarySearchTree.java  # BST algoritmalarını içerir
-│   │   ├── TreeNode.java          # Ağaç düğümlerini tanımlar
-│   │   ├── MainForm.java          # Swing GUI arayüzü
-│   │   ├── Veriyapilariagac.java  # Projeyi başlatan ana sınıf
-│── README.md
+
+
+BinarySearchTree.java  # BST algoritmalarını içerir
+ TreeNode.java          # Ağaç düğümlerini tanımlar
+ MainForm.java          # Swing GUI arayüzü
+ Veriyapilariagac.java  # Projeyi başlatan ana sınıf
+ README.md
 
 🔧 Kullanım
 

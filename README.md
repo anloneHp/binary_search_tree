@@ -2,7 +2,7 @@
 İkili Arama Ağacı (Binary Search Tree) Görselleştirme Projesi
 
 Bu proje, Java Swing kullanarak bir İkili Arama Ağacı (Binary Search Tree - BST) uygulamasını görselleştirmek için geliştirilmiştir. Kullanıcılar, ağaç üzerinde ekleme, arama ve dolaşma (traversal) işlemlerini gerçekleştirebilir.
-
+Detayli Anlatim:https://www.youtube.com/watch?v=MuKLVEYDgqQ&t=2s
 📌 Özellikler
 
 Ekleme (Insert): Kullanıcıdan alınan sayıyı BST'ye ekler.
@@ -26,7 +26,6 @@ Ağacın Görselleştirilmesi: Ekleme ve arama işlemlerinde ağaç otomatik ola
 📂 Proje Yapısı
 
 veriyapilariagac/
-
 
 BinarySearchTree.java  # BST algoritmalarını içerir
  TreeNode.java          # Ağaç düğümlerini tanımlar
